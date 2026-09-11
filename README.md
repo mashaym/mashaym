@@ -1,4 +1,4 @@
-### Hi, I'm Mashaim 👋
+### Hi, I'm Mashaim Rehman 👋
 
 AI/ML Engineer & Computer Scientist based in Abbottabad, Pakistan — building intelligent solutions for real-world problems.
 
