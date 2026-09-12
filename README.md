@@ -24,16 +24,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description |
-| --- | --- |
-| [**Stack Advisor**](https://github.com/mashaym/Stack-Advisor) | VS Code extension that asks a few questions and returns a reasoned tech stack recommendation, powered by Gemini |
-| [**DocuMind**](https://github.com/mashaym/DocuMind) | Document Q&A (RAG) app — ask questions in plain English, get answers grounded in your PDFs with sources shown. Streamlit + ChromaDB + Gemini |
-| [**Dental Hub**](https://github.com/mashaym/Dental-Hub) | Modern responsive dental & medical clinic website — Next.js, React + TypeScript, Tailwind |
-| [**Beauty Aesthetics**](https://github.com/mashaym/Beauty-Aesthetics) | Modern responsive aesthetic clinic website — React + Vite + Tailwind |
-
----
 
 ### 🛠️ Tech Stack
 
