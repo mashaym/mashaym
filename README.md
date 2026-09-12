@@ -54,11 +54,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mashaym/mashaym/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### 📫 Connect
+### 📫 Find Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
 
 
