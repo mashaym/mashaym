@@ -16,7 +16,9 @@
 </div>
 
 🔭 Currently building RAG apps, ML tooling, and full-stack web projects
+
 🌱 Focused on applied AI/ML and practical developer tooling
+
 💬 Ask me about LLM apps, RAG pipelines, or React/Next.js builds
 
 ---
