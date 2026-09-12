@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C9A3,100:7A9471&height=200&section=header&text=Hi,%20I'm%20Mashaim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=2500&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
 </a>
@@ -18,30 +16,19 @@
 - 💬 Ask me about LLM apps, RAG pipelines, or React/Next.js builds
 
 ---
-
-### 🚀 Projects
-
-| Project | Description |
-| --- | --- |
-| [**Stack Advisor**](https://github.com/mashaym/Stack-Advisor) | VS Code extension that asks a few questions and returns a reasoned tech stack recommendation, powered by Gemini |
-| [**DocuMind**](https://github.com/mashaym/DocuMind) | Document Q&A (RAG) app — ask questions in plain English, get answers grounded in your PDFs with sources shown. Streamlit + ChromaDB + Gemini |
-| [**Dental Hub**](https://github.com/mashaym/Dental-Hub) | Modern responsive dental & medical clinic website — Next.js, React + TypeScript, Tailwind |
-| [**Beauty Aesthetics**](https://github.com/mashaym/Beauty-Aesthetics) | Modern responsive aesthetic clinic website — React + Vite + Tailwind |
-
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,git,github" />
-
-<br/><br/>
-
-![Streamlit](https://img.shields.io/badge/-Streamlit-7A9471?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-7A9471?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-</div>
+- Python
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- Streamlit
+- Gemini API
+- Git
 
 ---
 
