@@ -2,7 +2,7 @@
 
 AI/ML Engineer & Computer Scientist based in Abbottabad, Pakistan
 
-Building intelligent solutions for real-world problems.
+
 
 - 🔭 Currently building RAG apps, ML tooling, and full-stack web projects
 - 🌱 Focused on applied AI/ML and practical developer tooling
