@@ -61,7 +61,6 @@
 [![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
 
-<img src="https://komarev.com/ghpvc/?username=mashaym&color=7A9471&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
