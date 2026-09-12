@@ -9,6 +9,7 @@
 
 
 ![Debugging life one bug at a time](https://img.shields.io/badge/-Debugging%20life%20one%20bug%20at%20a%20time-7A9471?style=flat-square&labelColor=7A9471&color=7A9471)
+
 ![Abbottabad, Pakistan](https://img.shields.io/badge/📍%20Abbottabad,%20Pakistan-7A9471?style=flat-square&labelColor=7A9471&color=7A9471)
 
 <br/>
