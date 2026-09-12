@@ -2,15 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C9A3,100:7A9471&height=200&section=header&text=Hi,%20I'm%20Mashaim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=Debugging+life+one+bug+at+a+time" alt="Debugging life one bug at a time" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=%F0%9F%93%8D+Abbottabad%2C+Pakistan" alt="📍 Abbottabad, Pakistan" />
-
-<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=2500&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
 </a>
+
+
+![Debugging life one bug at a time](https://img.shields.io/badge/-Debugging%20life%20one%20bug%20at%20a%20time-7A9471?style=flat-square&labelColor=7A9471&color=7A9471)
+![Abbottabad, Pakistan](https://img.shields.io/badge/📍%20Abbottabad,%20Pakistan-7A9471?style=flat-square&labelColor=7A9471&color=7A9471)
+
+<br/>
 
 </div>
 
