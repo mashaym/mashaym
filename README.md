@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C9A3,100:7A9471&height=200&section=header&text=Hi,%20I'm%20Mashaim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=2000&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
+</a>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=Debugging+life+one+bug+at+a+time" alt="Debugging life one bug at a time" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=%F0%9F%93%8D+Abbottabad%2C+Pakistan" alt="📍 Abbottabad, Pakistan" />
 
 <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=2500&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
-</a>
 
 </div>
 
