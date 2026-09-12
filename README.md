@@ -2,19 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C9A3,100:7A9471&height=200&section=header&text=Hi,%20I'm%20Mashaim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=Debugging+life+one+bug+at+a+time" alt="Debugging life one bug at a time" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=7A9471&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer" alt="Typing SVG" />
-</a>
-
-*********Debugging Life One Bug At A Time*********
-
-📍 Abbottabad, Pakistan
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&color=7A9471&center=true&vCenter=true&width=500&height=30&repeat=false&lines=%F0%9F%93%8D+Abbottabad%2C+Pakistan" alt="📍 Abbottabad, Pakistan" />
 
 <br/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=2500&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -24,20 +20,27 @@
 
 ---
 
+### 🚀 Projects
+
+| Project | Description |
+| --- | --- |
+| [**Stack Advisor**](https://github.com/mashaym/Stack-Advisor) | VS Code extension that asks a few questions and returns a reasoned tech stack recommendation, powered by Gemini |
+| [**DocuMind**](https://github.com/mashaym/DocuMind) | Document Q&A (RAG) app — ask questions in plain English, get answers grounded in your PDFs with sources shown. Streamlit + ChromaDB + Gemini |
+| [**Dental Hub**](https://github.com/mashaym/Dental-Hub) | Modern responsive dental & medical clinic website — Next.js, React + TypeScript, Tailwind |
+| [**Beauty Aesthetics**](https://github.com/mashaym/Beauty-Aesthetics) | Modern responsive aesthetic clinic website — React + Vite + Tailwind |
+
+---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,git,github" />
+
+<br/><br/>
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-7A9471?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-7A9471?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
@@ -45,10 +48,15 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
 
+<img height="165" src="https://github-readme-stats-psi-ivory-70.vercel.app/api?username=mashaym&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/top-langs/?username=mashaym&layout=compact&hide_border=true&cache_seconds=1800&title_color=7A9471&text_color=333333&bg_color=00000000"/>
+
+</div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&hide_border=true&background=00000000&ring=7A9471&fire=7A9471&currStreakNum=7A9471&sideNums=7A9471&currStreakLabel=7A9471&sideLabels=333333&dates=999999" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -66,8 +74,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
 
+<img src="https://komarev.com/ghpvc/?username=mashaym&color=7A9471&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
