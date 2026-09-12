@@ -38,7 +38,7 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&hide_border=true&background=00000000&ring=7A9471&fire=7A9471&currStreakNum=7A9471&sideNums=7A9471&currStreakLabel=7A9471&sideLabels=333333&dates=999999" alt="GitHub Streak"/>
 </div>
-
+username=mashaym&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000"/> <img height="165" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/top-langs/?username=mashaym&layout=compact&hide_border=true&cache_seconds=1800&title_color=7A9471&text_color=333333&bg_color=00000000"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&hide_border=true&background=00000000&ring=7A9471&fire=7A9471&currStreakNum=7A9471&sideNums=7A9471&currStreakLabel=7A9471&sideLabels=333333&dates=999999" alt="GitHub Streak"/> </div>
 ---
 
 <!--
