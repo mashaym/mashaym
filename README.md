@@ -4,7 +4,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=2500&color=7A9471&center=true&vCenter=true&width=500&lines=;AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=7A9471&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
 
@@ -54,12 +54,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats-psi-ivory-70.vercel.app/api?username=mashaym&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/top-langs/?username=mashaym&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -80,9 +75,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
 
-<img src="https://komarev.com/ghpvc/?username=mashaym&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
