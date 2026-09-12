@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=7A9471&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
-**Debugging life one bug at a time**
+*****Debugging life one bug at a time*****
 
 📍 Abbottabad, Pakistan
 
