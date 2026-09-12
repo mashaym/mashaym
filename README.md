@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C9A3,100:7A9471&height=200&section=header&text=Hi,%20I'm%20Mashaim%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7A9471&center=true&vCenter=true&width=600&lines=AI%2FML+ENGINEER+%7C+COMPUTER+SCIENTIST;Based+in+Abbottabad;Building+RAG+apps+%26+ML+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7A9471&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Debugging+life+one+bug+at+a+time;Based+in+Abbottabad%2C+Pakistan;AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -73,6 +73,9 @@
 [![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
 
+
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9471,100:B5C9A3&height=100&section=footer" width="100%"/>
+
