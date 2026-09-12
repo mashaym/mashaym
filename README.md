@@ -10,6 +10,7 @@
 
 📍 Abbottabad, Pakistan
 </div>
+🌱 <i>Small steps, steady growth.</i> 🌱</p> <br/>
 
 - 🔭 Currently building RAG apps, ML tooling, and full-stack web projects
 - 🌱 Focused on applied AI/ML and practical developer tooling
