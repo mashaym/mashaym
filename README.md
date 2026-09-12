@@ -18,15 +18,6 @@
 
 <br/> <p align="center">🌿 🌿 🌿</p> <br/>
 
->
-🚀 Projects
-<div align="center">
-
-<a href="https://github.com/mashaym/Stack-Advisor"><img height="150" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/pin/?username=mashaym&repo=Stack-Advisor&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000&hide_border=true" /></a> <a href="https://github.com/mashaym/DocuMind"><img height="150" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/pin/?username=mashaym&repo=DocuMind&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000&hide_border=true" /></a>
-
-<a href="https://github.com/mashaym/Dental-Hub"><img height="150" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/pin/?username=mashaym&repo=Dental-Hub&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000&hide_border=true" /></a> <a href="https://github.com/mashaym/Beauty-Aesthetics"><img height="150" src="https://github-readme-stats-psi-ivory-70.vercel.app/api/pin/?username=mashaym&repo=Beauty-Aesthetics&title_color=7A9471&icon_color=7A9471&text_color=333333&bg_color=00000000&hide_border=true" /></a>
-
-</div> <br/> <p align="center">🌿 🌿 🌿</p> <br/>
 
 ### 🛠️ Tech Stack
 
