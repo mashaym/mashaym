@@ -46,13 +46,13 @@
 
 ---
 
-<!--
-🐍 Optional animated contribution snake:
-1. In this repo, go to Settings → Actions → General → enable "Read and write permissions"
-2. Add a workflow file .github/workflows/snake.yml (ask me and I'll generate it for you)
-3. It will output a dark/light snake SVG you can embed here:
-<img src="https://raw.githubusercontent.com/mashaym/mashaym/output/github-contribution-grid-snake-dark.svg" />
--->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashaym/mashaym/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashaym/mashaym/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mashaym/mashaym/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 📫 Connect
 
