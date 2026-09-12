@@ -10,13 +10,13 @@
 
 📍 Abbottabad, Pakistan
 </div>
-🌱 <i>Small steps, steady growth.</i> 🌱</p> <br/>
+
 
 - 🔭 Currently building RAG apps, ML tooling, and full-stack web projects
 - 🌱 Focused on applied AI/ML and practical developer tooling
 - 💬 Ask me about LLM apps, RAG pipelines, or React/Next.js builds
 
----
+<br/> <p align="center">🌿 🌿 🌿</p> <br/>
 
 ### 🛠️ Tech Stack
 
