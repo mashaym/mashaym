@@ -73,8 +73,6 @@
 [![GitHub](https://img.shields.io/badge/-mashaym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashaym)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
 
-<img src="https://komarev.com/ghpvc/?username=mashaym&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9471,100:B5C9A3&height=100&section=footer" width="100%"/>
