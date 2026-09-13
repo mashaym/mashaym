@@ -41,8 +41,10 @@
 ### 📫 Find Me
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashaim-rehman-84854b21b/)
 
+<a href="https://www.linkedin.com/in/mashaim-rehman-84854b21b/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
