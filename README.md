@@ -38,14 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mashaym&hide_border=true&background=00000000&ring=7A9471&fire=7A9471&currStreakNum=7A9471&sideNums=7A9471&currStreakLabel=7A9471&sideLabels=333333&dates=999999" alt="GitHub Streak"/>
-</div>
-
----
-
 ### 📫 Find Me
 
 <div align="center">
@@ -54,4 +46,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9471,100:B5C9A3&height=100&section=footer" width="100%"/>
