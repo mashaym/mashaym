@@ -40,6 +40,12 @@
 - Git
 
 ---
+Artificial Intelligence      ████████████████████
+Machine Learning             ███████████████████░
+Deep Learning                ██████████████████░░
+Explainable AI               ██████████████████░░
+Generative AI & LLMs         ███████████████████░
+Retrieval-Augmented Gen.     ██████████████████░░
 
 
 ### 📫 Find Me
