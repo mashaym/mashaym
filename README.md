@@ -15,7 +15,9 @@
 </div>
 
 </div>
+
 ---
+
 ### 👩🏻‍💻 About Me
 
 * 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
