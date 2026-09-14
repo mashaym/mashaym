@@ -40,12 +40,24 @@
 - Git
 
 ---
-Artificial Intelligence      ████████████████████
-Machine Learning             ███████████████████░
-Deep Learning                ██████████████████░░
-Explainable AI               ██████████████████░░
-Generative AI & LLMs         ███████████████████░
-Retrieval-Augmented Gen.     ██████████████████░░
+
+🔬 Research Interests
+
+Artificial Intelligence
+<img src="https://geps.dev/progress/100?dangerColor=7A9471&warningColor=7A9471&successColor=7A9471" width="400"/>
+
+Machine Learning
+<img src="https://geps.dev/progress/95?dangerColor=7A9471&warningColor=7A9471&successColor=7A9471" width="400"/>
+
+Generative AI & LLMs
+<img src="https://geps.dev/progress/95?dangerColor=7A9471&warningColor=7A9471&successColor=7A9471" width="400"/>
+
+Explainable AI
+<img src="https://geps.dev/progress/90?dangerColor=7A9471&warningColor=7A9471&successColor=7A9471" width="400"/>
+
+Retrieval-Augmented Generation
+Deep Learning
+My academic research explores Deep Learning-based Diabetic Retinopathy Detection using Explainable Artificial Intelligence, with a focus on developing intelligent systems that are not only accurate but also interpretable.
 
 
 ### 📫 Find Me
