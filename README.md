@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=7A9471&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
-******Debugging Life One Bug At A Time******
+*******”Building practical AI systems at the intersection of machine learning, generative AI, and explainability.”*******
 
 📍 Abbottabad, Pakistan
 <br/>
