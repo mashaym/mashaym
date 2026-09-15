@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&color=7A9471&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer" alt="Typing SVG" />
 </a>
 
-*******”Building practical AI systems at the intersection of machine learning, generative AI, and explainability.”*******
+*******”Building Practical AI Systems.”*******
 
 📍 Abbottabad, Pakistan
 <br/>
@@ -51,4 +51,19 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mashaim-rehman-84854b21b/">
+  <img src="https://img.shields.io/badge/LinkedIn-7A9471?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </div>
+<br/>
+<div align="center">
+<br/>
+<div align="center">
+
+### Thanks for visiting! 🌿
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9471,100:B5C9A3&height=120&section=footer" width="100%"/>
+
+
