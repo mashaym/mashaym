@@ -33,11 +33,15 @@
 
 **Languages:** Python, TypeScript, JavaScript
 
-**Frontend:** React, Next.js, Tailwind CSS, Vite
+**Deep Learning:** PyTorch, Transformers, NLP, Computer Vision, Multimodal AI
+
+**LLM & Agentic AI:** RAG, Agentic AI, Function Calling (Tool Use), LoRA Fine-Tuning, Gemini API, sentence-transformers, ChromaDB
 
 **Backend:** FastAPI
 
-**AI / LLM:** Gemini API, RAG, Function Calling (Tool Use), sentence-transformers, ChromaDB
+**Frontend:** React, Next.js, Tailwind CSS, Vite
+
+**MLOps & DevOps:** Docker, CI/CD, Cloud Deployment (AWS / GCP / Render), MLflow / Weights & Biases
 
 **Apps & Prototyping:** Streamlit
 
