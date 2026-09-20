@@ -31,15 +31,17 @@
 
 ### 🛠️ Tech Stack
 
-- Python
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- Streamlit
-- Gemini API
-- Git
+**Languages:** Python, TypeScript, JavaScript
+
+**Frontend:** React, Next.js, Tailwind CSS, Vite
+
+**Backend:** FastAPI
+
+**AI / LLM:** Gemini API, RAG, Function Calling (Tool Use), sentence-transformers, ChromaDB
+
+**Apps & Prototyping:** Streamlit
+
+**Tools:** Git, GitHub
 
 ---
 
