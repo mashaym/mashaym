@@ -20,13 +20,13 @@
 
 ### 👩🏻‍💻 About Me
 
-* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
-* 🔭 Currently building RAG applications, AI-powered tools, and ML projects
-* 🧠 Interested in LLMs, Explainable AI, Deep Learning, and Intelligent Systems
-* 🎓 Background in Computer Science with research experience in Deep Learning & XAI
-* 🔬 Exploring practical ways to turn AI research into real-world applications
-* 💬 Ask me about Python, RAG, LLM applications, Machine Learning, or XAI
-* ⚡ I enjoy turning complex problems into simple, practical solutions
+* Exploring Artificial Intelligence, Machine Learning, and Generative AI
+* Currently building RAG applications, AI-powered tools, and ML projects
+* Interested in LLMs, Explainable AI, Deep Learning, and Intelligent Systems
+* Background in Computer Science with research experience in Deep Learning & XAI
+* Exploring practical ways to turn AI research into real-world applications
+* Ask me about Python, RAG, LLM applications, Machine Learning, or XAI
+* I enjoy turning complex problems into simple, practical solutions
 ---
 
 ### 🛠️ Tech Stack
