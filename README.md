@@ -51,7 +51,7 @@
 
 ### 📫 Find Me
 
-<div align="center">
+<div align="right">
 
 <a href="https://www.linkedin.com/in/mashaim-rehman-84854b21b/">
   <img src="https://img.shields.io/badge/LinkedIn-7A9471?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -63,7 +63,6 @@
 <br/>
 <div align="center">
 
-### Thanks for visiting! 🌿
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9471,100:B5C9A3&height=120&section=footer" width="100%"/>
